@@ -1,0 +1,6 @@
+name: dipotorn
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
+excerpt_separator: <!--more-->
+paginate: 10
+url: https://dipotorn.github.io
